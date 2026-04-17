@@ -60,6 +60,8 @@ ai-crm-hcp/
 
 ---
 
+
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
@@ -83,7 +85,5 @@ npm install
 npm start
 
 
-#screenshort
 
-<img width="1920" height="1080" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/f060e305-412f-453c-9842-060531191149" />
 
